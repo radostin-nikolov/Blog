@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url('fabric.png');
+}
+
+.footer {
+  background: #333;
+  color: #fff;
+  padding: 24px;
+}
